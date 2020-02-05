@@ -1,4 +1,4 @@
-# Data-Science - Reports
+# Data Science - Reports
 
 Various reports relating to data science and business strategy. The reports focus on making data-driven decisions that propel organizations forward. The analysis for the reports are derived from database systems and analytics software built upon open-source systems such as R, Python, and TensorFlow. The recommendation is based on trustworthy predictions using traditional statistics and machine learning methods.
 
